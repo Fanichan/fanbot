@@ -8,12 +8,12 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾AR15BOT👾'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_sadboy.ig'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6285722553839'; // JANGAN UBAH-UBAH INFO!!!
-const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
+const  A187  =  '👾fanbot9👾' ; // INFO JANGAN UBAH-UBAH !!!
+const      instagram      =      'https://instagram.com/syifa_aye?igshid=guav8uon8zeo' ; // INFO JANGAN UBAH-UBAH !!!
+const            nomer            =            'Wa.me/6285751950259; // INFO JANGAN UBAH-UBAH !!!
+const       aktif       =       'Tergantung jaringan' ; // INFO JANGAN UBAH-UBAH !!
 const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // JANGAN UBAH-UBAH INFO!!!
+const     youtube     =     'https://www.youtube.com/channel/UC_Qmvf-LEZxvM6Vs7MPEqfw'; // INFO JANGAN UBAH-UBAH !!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
