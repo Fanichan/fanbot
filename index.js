@@ -145,12 +145,12 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner AR15BOT wa.me/+6285722553839* ' ,MessageType.text);
+samb . sendMessage ( id , '* Owner AR15BOT wa.me/+6285751950259*' , MessageType . text );
 }
-else if (text == '#creator'){
-conn.sendMessage(id, ' *Creator AR15BOT wa.me/+6285722553839* ' ,MessageType.text);
+lain  jika ( teks  ==  '#creator' ) {
+samb . sendMessage ( id , '* Creator AR15BOT wa.me/+6285751950259*' , MessageType . teks );
 }
-else if (text == 'Pagi'){
+else   if ( text   ==   'Pagi' ) {
 conn.sendMessage(id, ' _Pagi juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#menu* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Siang'){
