@@ -10,7 +10,7 @@
 */
 const  A187  =  '👾fanbot9👾' ; // INFO JANGAN UBAH-UBAH !!!
 const      instagram      =      'https://instagram.com/syifa_aye?igshid=guav8uon8zeo' ; // INFO JANGAN UBAH-UBAH !!!
-const              nomer              =              'Wa.me/+6285751950259; // INFO JANGAN UBAH-UBAH !!!
+const               nomer               =               'Wa.me/+6285751950259'; // INFO JANGAN UBAH-UBAH !!!
 const       aktif       =       'Tergantung jaringan' ; // INFO JANGAN UBAH-UBAH !!
 const        groupwhatsapp        =    'https://chat.whatsapp.com/E7wYZVh9VNLL4StLwGK1Vh' ; // INFO JANGAN UBAH-UBAH !!!
 const      youtube      =      'https://www.youtube.com/channel/UC_Qmvf-LEZxvM6Vs7MPEqfw' ; // INFO JANGAN UBAH-UBAH !!!
